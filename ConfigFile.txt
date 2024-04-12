@@ -1,0 +1,5 @@
+ServerName=YourServerName
+DatabaseName=YourDatabaseName
+UserName=YourUserName
+Password=YourPassword
+QueryFilePath=C:\Path\To\Your\QueryFile.sql
