@@ -3,3 +3,4 @@ DatabaseName=YourDatabaseName
 UserName=YourUserName
 Password=YourPassword
 QueryFilePath=C:\Path\To\Your\QueryFile.sql
+ErrorLogPath=C:\Path\To\Your\error.log
